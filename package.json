@@ -1,0 +1,15 @@
+{
+  "name": "r2gdemo",
+  "version": "1.0.0",
+  "description": "Warehouse REPL/CLI app for r2g",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "author": "Eric Turner",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
